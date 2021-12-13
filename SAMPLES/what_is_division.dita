@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_division">
+    <title>What Is Division?</title>
+    <shortdesc>You will learn about the arithmetic process of division.</shortdesc>
+    <conbody>
+        <p>Division is the arithmetic operation of finding how many times one quantity is contained
+            in another, or of dividing one number by another. </p>
+        <p>A division operation is usually indicated by the use of the divide sign (÷).</p>
+    </conbody>
+</concept>

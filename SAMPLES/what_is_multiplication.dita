@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_multiplication">
+    <title>What Is Multiplication?</title>
+    <shortdesc>You will learn about the arithmetic process of multiplication.</shortdesc>
+    <conbody>
+        <p>Multiplication is the arithmetic operation of finding the product of two quantities or
+            numbers, or of multiplying one number by another. </p>
+        <p>A multiplication operation is usually indicated by the use of the times sign (X).</p>
+    </conbody>
+</concept>
